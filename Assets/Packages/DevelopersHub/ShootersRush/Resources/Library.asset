@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d22264c277e85f4a839370055d27f79, type: 3}
+  m_Name: Library
+  m_EditorClassIdentifier: 
+  _characterPrefabs:
+  - {fileID: 2241346182789620033, guid: ab958b7ff352daf4f9f0f166aca3ac03, type: 3}
+  - {fileID: 305203144641823346, guid: 4de7b89e23e11064a881943c02d13694, type: 3}
+  - {fileID: 8668717434217940412, guid: e6667de9f6ec0ea46803d5eefb83dd3f, type: 3}
+  - {fileID: 365759783799631559, guid: 6ec8459890badd64981208d9e5e65ec1, type: 3}
+  _enemyPrefabs:
+  - {fileID: 481554985975381874, guid: 84c7aabe7d8283b4e86c8df0994287b4, type: 3}
+  - {fileID: 9208910465768896684, guid: 5d26496f69495674da8d6e9d93fa62a0, type: 3}
+  - {fileID: 3542793195500218956, guid: b940ec0aeca5df64e96320d851e2090d, type: 3}
+  _weaponPrefabs:
+  - {fileID: 765928613686616986, guid: 37608e70bba4684429a90e74b5916b1d, type: 3}
+  - {fileID: 750953895104103344, guid: e834533ee7b37624b8c6c76096a7fb29, type: 3}
+  _projectilePrefabs:
+  - {fileID: 6895699221726832413, guid: 3dc43bb7bccde974f8906290ac8d66e8, type: 3}
+  _muzzleFlashPrefabs:
+  - {fileID: 7708561588580260542, guid: bd478c9aa5ef5754986b47f552c55cff, type: 3}
+  - {fileID: 1173693714566038685, guid: 0e30c5c0b93711042be35eb2dbb235e4, type: 3}
+  _containerPrefabs:
+  - {fileID: 6791863029306945730, guid: 847cee10a565af54faa5573e26bba58f, type: 3}
+  - {fileID: 4742784870423883204, guid: 0d6d91f9bced13442a10f4ae31cad56c, type: 3}
+  _gatewayPrefabs:
+  - {fileID: 4410831172473965171, guid: 596e4718bb957034d9e47cc73850cc1c, type: 3}
